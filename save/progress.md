@@ -12,13 +12,13 @@ The Game Master updates this at the end of every session. You can read it anytim
 
 ## Stats
 
-- Level: 2
-- XP: 340 (next level at 350)
+- Level: 3
+- XP: 500 (next level at 600)
 - World: W0 Pilot Academy
-- Current quest: Q0.2 Pilot or Passenger?
+- Current quest: Q0.3 Prompt Forge 101
 - Current Git quest: G0.3 Sign Your Work (name/email set; remaining settings pending)
 - Field Lab (offline): not started | Gauntlet: -/15 | Guild Hall checks: -/13
-- Journey: W0 1/3 | W1 locked | W2 locked | W3 locked | W4 locked | W5 locked | W6 locked | W7 locked
+- Journey: W0 2/3 | W1 locked | W2 locked | W3 locked | W4 locked | W5 locked | W6 locked | W7 locked
 - AI power-up: Tutor
 - Streak: 2 days (freezes left this month: 2)
 - Last played: 2026-10-06
@@ -38,6 +38,8 @@ The Game Master updates this at the end of every session. You can read it anytim
 | W0-jshell | Run expressions and print a greeting in JShell | 2026-10-05 | 2026-10-06 |
 
 | G0-terminal | pwd, ls -a, mkdir, cd, parent folder, git --version; explained mkdir vs cd | 2026-10-06 | 2026-10-07 |
+
+| W0-pilot | Use own judgement: plan, question AI, understand and test output; protect private data | 2026-10-06 | 2026-10-07 |
 
 ## Weak spots (retest these first)
 
@@ -68,6 +70,9 @@ The Game Master updates this at the end of every session. You can read it anytim
 
 - 2026-10-06: G0.1 complete. +160 XP: 8 attempts x 5, 6 correct predictions x 10, explain-back 30, Git quest 30. Total 340.
 - Git setup preview: player committed and pushed only game/ and save/. Exclude agent, skills and Codex setup files from future commits. G0.2 account/2FA confirmed; email configured; no extra Git quest XP yet. Commit/add/push require fresh explain-back before later G1 credit.
+
+- 2026-10-06 Q0.2 complete: +160 XP (8 attempts x 5, 4 correct scenario classifications x 10, explain-back 30, quest completion 50); total 500, Lv 3.
+- Pilot metaphor initially confused player (thought code was passenger). Direct definitions clarified it. Final explain-back: own judgement versus passively following AI output. Retest with fresh scenarios; do not re-teach.
 
 ## Git
 
