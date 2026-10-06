@@ -12,13 +12,13 @@ The Game Master updates this at the end of every session. You can read it anytim
 
 ## Stats
 
-- Level: 3
-- XP: 500 (next level at 600)
+- Level: 4
+- XP: 680 (next level at 900)
 - World: W0 Pilot Academy
-- Current quest: Q0.3 Prompt Forge 101
+- Current quest: G0.3 remaining setup, then Pilot License boss
 - Current Git quest: G0.3 Sign Your Work (name/email set; remaining settings pending)
 - Field Lab (offline): not started | Gauntlet: -/15 | Guild Hall checks: -/13
-- Journey: W0 2/3 | W1 locked | W2 locked | W3 locked | W4 locked | W5 locked | W6 locked | W7 locked
+- Journey: W0 3/3 (boss pending) | W1 locked | W2 locked | W3 locked | W4 locked | W5 locked | W6 locked | W7 locked
 - AI power-up: Tutor
 - Streak: 2 days (freezes left this month: 2)
 - Last played: 2026-10-06
@@ -41,6 +41,9 @@ The Game Master updates this at the end of every session. You can read it anytim
 
 | W0-pilot | Use own judgement: plan, question AI, understand and test output; protect private data | 2026-10-06 | 2026-10-07 |
 
+| W0-prompt | Goal, Context, Constraints, Verify; exercises check understanding | 2026-10-06 | 2026-10-07 |
+| W0-verify | Ask AI to explain, run code, compare expected and actual output, investigate differences | 2026-10-06 | 2026-10-07 |
+
 ## Weak spots (retest these first)
 
 | Concept | What went wrong | Retest on |
@@ -50,6 +53,8 @@ The Game Master updates this at the end of every session. You can read it anytim
 
 | Folder listing | Initially expected save/progress.md in root listing; corrected to AGENTS.md | 2026-10-07 |
 
+| Verification | Initially unsure how to verify convincing explanation; passed supported explain-back; fresh independent check needed | 2026-10-07 |
+
 ## Achievements
 
 - Hello, World: printed Hello, Danny in JShell (2026-10-05)
@@ -57,9 +62,15 @@ The Game Master updates this at the end of every session. You can read it anytim
 - Git Gud: first commit 77114d4 (2026-10-06; observed today)
 - Uplink: first push verified main and origin/main at 77114d4 (2026-10-06)
 
+- Prompt Smith: improved learning prompt with exercises for verification (2026-10-06)
+
 ## Lore unlocked
 
 ## Pilot Rules card (in the player's own words)
+
+1. Before proceeding with the output, ask me questions for better clarity
+2. You should make sure to explain the output that you have put out in simple way for me to understand
+3. I may lack the knowledge and context when working on a specific field. For code development, act as a senior developer with 10+ years in the field and be my mentor throughout development.
 
 ## Tutor notes (what works for this player)
 
@@ -73,6 +84,9 @@ The Game Master updates this at the end of every session. You can read it anytim
 
 - 2026-10-06 Q0.2 complete: +160 XP (8 attempts x 5, 4 correct scenario classifications x 10, explain-back 30, quest completion 50); total 500, Lv 3.
 - Pilot metaphor initially confused player (thought code was passenger). Direct definitions clarified it. Final explain-back: own judgement versus passively following AI output. Retest with fresh scenarios; do not re-teach.
+
+- 2026-10-06 Q0.3 complete: +180 XP (10 challenge attempts x 5, correct variable prediction 10, Prompt Forge 40, verification explain-back 30, quest completion 50); total 680, Lv 4. World remains W0; Tutor power-up remains.
+- Player prefers clarification when context is missing, plain explanations, and senior mentor guidance. Preserve own judgement and evidence checks. Variable reassignment was a W1 preview, predicted 75; not executed during this quest, verify in W1.
 
 ## Git
 
